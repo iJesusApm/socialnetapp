@@ -46,11 +46,11 @@ To get a local copy of this project up and running, follow the steps below.
 - Navigate into the project directory:
   cd socialnetapp
 - Install the dependencies:
-  `yarn install`
+  `yarn install` or `npm install`
 - Run the app on Android:
-  `yarn android`
+  `yarn android` or `npm android`
 - Run the app on iOS
-  `yarn iOS`
+  `yarn ios` or `npm ios`
 
 ### Project Structure
 
