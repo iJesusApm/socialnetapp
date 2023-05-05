@@ -7,6 +7,24 @@
   - [React Native](https://reactnative.dev)
   - [React Navigation](https://reactnavigation.org/)
 
+## Android Screens
+
+<table style="border: 0">
+  <tr>
+    <td align="center"><img src="files/Android-WELCOME.png" /></td>
+    <!-- <td align="center"><img src="files/Android-LOGIN.png" /></td> -->
+  </tr>
+</table>
+
+## iOS Screens
+
+<table style="border: 0">
+  <tr>
+    <td align="center"><img src="files/iOS-WELCOME.png" /></td>
+    <!-- <td align="center"><img src="files/iOS-LOGIN.png" /></td> -->
+  </tr>
+</table>
+
 ## Getting Started
 
 To get a local copy of this project up and running, follow the steps below.
