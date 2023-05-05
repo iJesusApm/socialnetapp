@@ -12,7 +12,7 @@
 <table style="border: 0">
   <tr>
     <td align="center"><img src="files/Android-WELCOME.png" /></td>
-    <!-- <td align="center"><img src="files/Android-LOGIN.png" /></td> -->
+    <td align="center"><img src="files/Android-LOGIN.png" /></td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@
 <table style="border: 0">
   <tr>
     <td align="center"><img src="files/iOS-WELCOME.png" /></td>
-    <!-- <td align="center"><img src="files/iOS-LOGIN.png" /></td> -->
+    <td align="center"><img src="files/iOS-LOGIN.png" /></td>
   </tr>
 </table>
 
